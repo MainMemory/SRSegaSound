@@ -9,5 +9,7 @@
 
 // add headers that you want to pre-compile here
 #include "framework.h"
+#include <stdexcept>
+#include "..\sonicr-mod-loader\SonicRModLoader\include\SonicRModLoader.h"
 
 #endif //PCH_H
